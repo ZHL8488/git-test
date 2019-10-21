@@ -7,4 +7,7 @@ public class MyGit {
     public static void fun(){
         System.out.println("hello");
     }
+    public static void fun2(){
+        System.out.println("haha");
+    }
 }
